@@ -13,6 +13,12 @@ Voice interaction, avatar rendering and modular desktop skills.
 
 Mark LIV desktop assistant.
 
+## Interface preview
+
+![Mark LIV interface; upstream FatihMakes attribution preserved](docs/assets/mark-liv-interface.png)
+
+This screenshot shows a captured prototype session, rather than a new performance or runtime test.
+
 ## Engineering highlights
 
 - Upstream voice-assistant source with desktop-control modules
